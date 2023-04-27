@@ -1,0 +1,295 @@
+70205753168935
+phlob2000020000
+ABXY_Contact_Omron_Switch
+
+
+0
+3
+2
+phlob2000020000
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+phlob2000020000
+C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+phlob2000020000
+C_0603_HandSoldering
+Capacitor SMD 0603, hand soldering
+capacitor 0603
+0
+2
+2
+phlob2000020000
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+phlob2000020000
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+phlob2000020000
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+phlob2000020000
+Dpad_Contact_TL3315NF_2
+
+
+0
+2
+2
+phlob2000020000
+Fuse_1206_3216Metric
+Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse
+0
+2
+2
+phlob2000020000
+GCC_Header_Straight_1x06_Pitch2.00mm
+Through hole straight pin header, 1x06, 2.00mm pitch, single row
+Through hole pin header THT 1x06 2.00mm single row
+0
+6
+6
+phlob2000020000
+GCC_Slider
+
+
+0
+5
+3
+phlob2000020000
+GCC_Stickbox_Hall_Only
+
+
+0
+16
+6
+phlob2000020000
+Ghost Logo 2
+
+
+0
+0
+0
+phlob2000020000
+Ghost Logo Small
+
+
+0
+0
+0
+phlob2000020000
+HRS_FH34SRJ-12S-0.5SH(50)
+
+
+0
+14
+14
+phlob2000020000
+MountingHole_1.8mm
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+0
+0
+phlob2000020000
+MountingHole_2.0mm
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+0
+0
+phlob2000020000
+MountingHole_2.2mm
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+0
+0
+phlob2000020000
+MountingHole_2.4mm
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+0
+0
+phlob2000020000
+MountingHole_5.2mm
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+0
+0
+phlob2000020000
+PinHeader_1x01_P2.54mm_Vertical
+Through hole straight pin header, 1x01, 2.54mm pitch, single row
+Through hole pin header THT 1x01 2.54mm single row
+0
+1
+1
+phlob2000020000
+PinHeader_1x02_P2.00mm_Horizontal
+Through hole angled pin header, 1x02, 2.00mm pitch, 4.2mm pin length, single row
+Through hole angled pin header THT 1x02 2.00mm single row
+0
+2
+2
+phlob2000020000
+PinHeader_1x02_P2.00mm_Vertical
+Through hole straight pin header, 1x02, 2.00mm pitch, single row
+Through hole pin header THT 1x02 2.00mm single row
+0
+2
+2
+phlob2000020000
+PinHeader_1x04_P2.00mm_Vertical
+Through hole straight pin header, 1x04, 2.00mm pitch, single row
+Through hole pin header THT 1x04 2.00mm single row
+0
+4
+4
+phlob2000020000
+PinSocket_1x06_P2.00mm_Vertical
+Through hole straight socket strip, 1x06, 2.00mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.00mm single row
+0
+6
+6
+phlob2000020000
+Pin_Header_Straight_1x02_Pitch2.54mm
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+phlob2000020000
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+phlob2000020000
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+phlob2000020000
+R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+phlob2000020000
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+phlob2000020000
+SOIC-8_5.23x5.23mm_P1.27mm
+SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+phlob2000020000
+SOT-23
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+phlob2000020000
+SOT-223-3_TabPin2
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+3
+phlob2000020000
+SW_TS-1187A-B-A-B
+
+
+0
+4
+4
+phlob2000020000
+Slot
+
+
+0
+0
+0
+phlob2000020000
+Start_Contact
+
+
+0
+3
+2
+phlob2000020000
+USB_Micro-B_Amphenol_10118194_Horizontal
+USB Micro-B receptacle, horizontal, SMD, 10118194, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf
+USB Micro B horizontal SMD
+0
+17
+6
+phlob2000020000
+Z_Switch_Edge_Omron
+
+
+0
+6
+5
+phlob2000020000
+breakaway-mousebites-double
+
+
+0
+2
+1
+phlob2000020000
+breakaway-mousebites-double-v2-large
+
+
+0
+0
+0
+phlob2000020000
+breakaway-mousebites-double-v2-small
+
+
+0
+0
+0
+phlob2000020000
+rumble_pins
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
