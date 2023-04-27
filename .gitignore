@@ -16,6 +16,7 @@ _autosave-*
 fp-lib-table
 fp-info-cache
 sym-lib-table
+Zinnia2_0_5-backups
 # Netlist files (exported from Eeschema)
 *.net
 *.xml
