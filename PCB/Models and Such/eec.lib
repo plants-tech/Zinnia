@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Omron D2LS-11
+#
+DEF D2LS-11 SW 0 40 Y Y 1 L N
+F0 "SW" 0 200 50 H V L CNN 
+F1 "D2LS-11" 0 300 50 H V L CNN 
+F2 "Omron-D2LS-11-*" 0 400 50 H I L CNN 
+F3 "http://www.mouser.com/ds/2/307/D2LS_0214-464500.pdf" 0 500 50 H I L CNN 
+F4 "Switch" 0 600 50 H I L CNN "category"
+F5 "SWITCH SNAP ACT SPST-NO 1MA 6V" 0 700 50 H I L CNN "digikey description"
+F6 "Z4377CT-ND" 0 800 50 H I L CNN "digikey part number"
+F7 "yes" 0 900 50 H I L CNN "lead free"
+F8 "138894ab607c1417" 0 1000 50 H I L CNN "library id"
+F9 "Omron" 0 1100 50 H I L CNN "manufacturer"
+F10 "653-D2LS-11" 0 1200 50 H I L CNN "mouser part number"
+F11 "SW_SMT_8MM6_4MM8" 0 1300 50 H I L CNN "package"
+F12 "yes" 0 1400 50 H I L CNN "rohs"
+F13 "+85°C" 0 1500 50 H I L CNN "temperature range high"
+F14 "-25°C" 0 1600 50 H I L CNN "temperature range low"
+F15 "" 0 1700 50 H I L CNN "voltage"
+DRAW
+X COM 1 0 0 100 R 40 0 1 1 U 
+X NO 2 400 0 100 L 40 0 1 1 U 
+C 130 0 20 1 1 0 N
+C 270 0 20 1 1 0 N
+P 2 1 1 0 150 10 250 70 N
+ENDDRAW
+ENDDEF
+#
+# End Library
