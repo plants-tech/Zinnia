@@ -13,9 +13,11 @@ fork of a fork of phob 2.x (Phob 2.x Official -> PhloraGCC -> ZinniaGCC)
 
 ## Images
 
-[Front](https://github.com/plants-tech/Zinnia/blob/master/PCB/Images/Zinnia2_0_5_front.png?raw=true)
+### Front
+![image](https://github.com/plants-tech/Zinnia/blob/master/PCB/Images/Zinnia2_0_5_front.png?raw=true)
 
-[Back](https://github.com/plants-tech/Zinnia/blob/master/PCB/Images/Zinnia2_0_5_back.png?raw=true)
+### Back
+![image](https://github.com/plants-tech/Zinnia/blob/master/PCB/Images/Zinnia2_0_5_back.png?raw=true)
 
 ## License
 
