@@ -2,6 +2,8 @@
 
 fork of a fork of phob 2.x (Phob 2.x Official -> PhloraGCC -> ZinniaGCC)
 
+RIP Jack Plants 
+
 ## Changes
 
 * USB D+/D- Pad Alignment with [Model U GCC v2](https://github.com/plants-tech/Model-U-GCC-V2)
